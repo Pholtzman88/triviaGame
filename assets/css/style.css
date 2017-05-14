@@ -1,0 +1,51 @@
+.row{
+	text-align: center;
+	
+	min-height: 75px;
+}
+h1{
+	font-size:48px;
+	padding: 20px;
+}
+h2{
+	font-size: 24px;
+	margin-top: 30px;
+}
+.button{
+	float:left;
+	display:inline-block;
+	
+	width:33%;
+	height: 75px;
+}
+#answer{
+	text-align: center;
+	width:50%;
+	margin-left:25%;
+}
+
+label{
+	
+}
+#startBtn{
+	height:100%;
+	width:100%;
+}
+#start{
+	margin-bottom: 20px;
+}
+#submitBtn{
+	height:100%;
+	width:100%;
+}
+.answer {
+	width:100%;
+	
+}
+
+.answer:hover{
+	border-color:green;
+}
+.answer:active{
+	background-color: green;
+}
